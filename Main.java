@@ -6,5 +6,7 @@ public class Main {
         System.out.println("Kidda fir sohneyo!!");
         System.out.println(new Date());
         System.out.println("Added one more file");
+        Sample sample = new Sample();
+        sample.sayHello();
     }
 }
